@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Echo9k/Echo9k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 I’m Guillermo Alcantara @Echo9k
 - 👀 I’m interested in and applications of ML on healt and finances.
@@ -17,5 +14,3 @@ I’m Guillermo Alcantara @Echo9k
   - e-mail     AlcantaraGonzalezGuillermo@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love long and easy to remember passwords.
-
--->
