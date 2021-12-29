@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I’m Guillermo Alcantara @Echo9k
+I’m Guillermo Alcantara @Echo9k a Machine Learning Engineer who loves finding business solutions through data.
+I’d love to combine my passion for learning and researching with my software development skills to continue building personalized financial products for people.
+Skills: SQL, Azure Databricks, Spark, Python, TF, XGBoost
+
 - 👀 I’m interested in and applications of ML on healt and finances.
 - 🔭 I’m currently working on databases and cloud services.
 - 🌱 I’m currently learning RNN.
