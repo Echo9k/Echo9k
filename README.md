@@ -1,18 +1,22 @@
 ### Hi there 👋
 
-I’m Guillermo Alcantara @Echo9k a Machine Learning Engineer who loves finding business solutions through data.
-I’d love to combine my passion for learning and researching with my software development skills to continue building personalized financial products for people.
-Skills: SQL, Azure Databricks, Spark, Python, TF, XGBoost
+I'm Guillermo Alcantara, a seasoned Data Scientist and Hyper-automation & AI Supervisor with a passion for leveraging technology to make a meaningful impact on people's lives.
 
-- 👀 I’m interested in and applications of ML on healt and finances.
-- 🔭 I’m currently working on databases and cloud services.
-- 🌱 I’m currently learning RNN.
-- 👯 I’m looking to collaborate on Machine learning applications.
-- 🤔 I’m looking for help with building an ML pipeline on Kubernetes.
-- 💬 Ask me about ML for computer viz.
-- 📫 How to reach me 
+- 👀 I specialize in developing and implementing data-driven strategies, machine learning models, and automation solutions. With experience in both startups and global corporations, I've led cross-functional teams to deliver projects that improve operational efficiency, reduce costs, and drive business growth.
+
+- 🌐 **Industry Experience**: I've worked across various sectors, including FMCG and Data Services. My diverse experience equips me to adapt and deliver value in different business contexts.
+
+📊 **Expertise areas**:
+  - Data Analysis & Predictive Modeling
+  - Machine Learning & AI
+  - Process Automation & Optimization
+  - Cloud Computing & DevOps
+  - Stakeholder Collaboration & Team Leadership
+
+- 🎯 **Career Goals & Interests**: I'm driven by the transformative power of technology and its potential to solve complex societal challenges. With a focus on innovation and sustainable growth, I'm keen on roles that allow me to leverage data and technology for social impact. I'm particularly interested in exploring opportunities in the FinTech sector.
+
+- 📫 **Let's Connect**: I'm always open to networking, collaboration, and discussing potential opportunities. Feel free to reach out!
   - Linked In  @GuimoAAGG
-  - Kaggle     @Echo9k
-  - e-mail     AlcantaraGonzalezGuillermo@gmail.com
+    - e-mail     AlcantaraGonzalezGuillermo@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love long and easy to remember passwords.
+- ⚡ Fun fact: First language I learned was HTML because I wanted something to do my homework and Word is too expensive. I didn't do research so I just learned a bit of HTML.
