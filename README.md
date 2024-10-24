@@ -16,7 +16,6 @@ I'm Guillermo Alcantara, a seasoned Data Scientist and Hyper-automation & AI Sup
 - 🎯 **Career Goals & Interests**: I'm driven by the transformative power of technology and its potential to solve complex societal challenges. With a focus on innovation and sustainable growth, I'm keen on roles that allow me to leverage data and technology for social impact. I'm particularly interested in exploring opportunities in the FinTech sector.
 
 - 📫 **Let's Connect**: I'm always open to networking, collaboration, and discussing potential opportunities. Feel free to reach out!
-  - Linked In  @GuimoAAGG
     - e-mail     AlcantaraGonzalezGuillermo@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: First language I learned was HTML because I wanted something to do my homework and Word is too expensive. I didn't do research so I just learned a bit of HTML.
